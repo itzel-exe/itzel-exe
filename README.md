@@ -7,12 +7,12 @@
 <h1 align="center">Hey there, I’m Itzel ⚡</h1>
 <h3 align="center">| Computer Science | Exploring Linear Algebra | Computer Networks | and Algorithm Design |</h3>
 
----
+
 
 ###  
-> I like to do **Linear Algebra** for fun, organize fiber obtic cables by size and color, and spend to muchh time saying Kruskal
+<h5 align="center"> I like to do Linear Algebra for fun, organize fiber obtic cables by size and color, and spend to muchh time saying Kruskal </h5>
 
----
+
 
 ###  Tech Stack
 <p align="center">
