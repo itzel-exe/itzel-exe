@@ -4,13 +4,13 @@
 <a href="https://www.buymeacoffee.com/itzelcastah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!-- ✨ Header / Intro -->
-<h1 align="center">Hey there, I’m Itzel ⚡</h1>
-<h3 align="center">| Computer Science | Exploring Linear Algebra | Computer Networks | and Algorithm Design |</h3>
+<h1 align="center"> I'm an engineer named Itzel </h1>
+<h3 align="center">| Linear Algebra | Computer Networks | and Algorithm Design |</h3>
 
 
 
 ###  
-<h5 align="center"> I like to do Linear Algebra for fun, organize fiber obtic cables by size and color, and spend to muchh time saying Kruskal </h5>
+<h5 align="center"> I like to do Linear Algebra for fun, organize fiber obtic cables by size and color, and spend too much time saying Kruskal </h5>
 
 
 
