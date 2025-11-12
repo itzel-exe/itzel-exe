@@ -5,11 +5,11 @@
 
 <!-- ✨ Header / Intro -->
 <p align="center">
-<img src="assets/banner_2.png" width="100%">
+<img src="assets/banner_3.png" width="100%">
 </p>
 
 <p align="center">
-<img src="assets/dsp.png" width="50%">
+<img src="assets/dsp_2.png" width="50%">
 </p>
 
 
