@@ -8,10 +8,18 @@
 <img src="assets/banner_3.png" width="100%">
 </p>
 
+<!--
 <p align="center">
 <img src="assets/dsp_2.png" width="50%">
+</p> -->
+
+<p align="center">
+<img src="assets/gifmock.gif" width="500">
 </p>
 
+<!--
+![Alt text](assets/gifmock.gif)
+-->
 
 
 ###  Tech Stack
