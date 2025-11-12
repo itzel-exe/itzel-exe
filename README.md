@@ -8,6 +8,11 @@
 <img src="assets/banner_2.png" width="100%">
 </p>
 
+<p align="center">
+<img src="assets/description.png" width="100%">
+</p>
+
+
 
 ###  Tech Stack
 <p align="center">
