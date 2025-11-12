@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="assets/description.png" width="50%">
+<img src="assets/dsp.png" width="50%">
 </p>
 
 
