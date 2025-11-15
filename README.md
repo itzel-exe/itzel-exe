@@ -27,9 +27,11 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Algorithm%20Design-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
+
 </p>
 
 ---
