@@ -14,7 +14,7 @@
 </p> -->
 
 <p align="center">
-<img src="assets/gifmock.gif" width="500">
+<img src="assets/dsp.gif" width="500">
 </p>
 
 <!--
