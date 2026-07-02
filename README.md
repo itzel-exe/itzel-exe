@@ -22,16 +22,6 @@
 -->
 
 
-###  Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Algorithm%20Design-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
- <img alt="Static Badge" src="https://img.shields.io/badge/Database%20Design-violet">
-
 <!-- Core Technologies -->
 <div class="tech-stack">
 
@@ -44,11 +34,11 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-
+<br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-
+<br>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
@@ -58,7 +48,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 </div>
-
+<br>
 <div class="tech-stack">
 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
@@ -72,7 +62,7 @@
   <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E" alt="AWS Glue">
 
 </div>
-
+<br>
 <div class="tech-stack">
 
   <img src="https://img.shields.io/badge/Healthcare_Analytics-005EB8?style=for-the-badge&logoColor=white" alt="Healthcare Analytics">
@@ -85,7 +75,7 @@
 
   <img src="https://img.shields.io/badge/HIPAA_Compliance-1565C0?style=for-the-badge&logoColor=white" alt="HIPAA">
 
-  <img src="https://img.shields.io/badge/Epic_Clarity-Learning-6A1B9A?style=for-the-badge" alt="Epic Clarity">
+  <img src="https://img.shields.io/badge/Epic_Clarity-6A1B9A?style=for-the-badge" alt="Epic Clarity">
 
 </div>
 
