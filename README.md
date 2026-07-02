@@ -13,14 +13,11 @@
 <img src="assets/dsp_2.png" width="50%">
 </p> -->
 
-<p align="center">
-<img src="assets/dsp.gif" width="500">
-</p>
 <!--
 ![Alt text](assets/gifmock.gif)
 -->
 <!-- Core Technologies -->
-<div class="tech-stack">
+<div class="tech-stack" align="center">
 <!-- Data Engineering-->
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -39,7 +36,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </div>
 
-<div class="tech-stack">
+<div class="tech-stack" align="center">
 <!--Cloud-->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
@@ -49,7 +46,7 @@
 </div>
 <br>
 
-<div class="tech-stack">
+<div class="tech-stack" align="center">
   <!--Healthcare-->
   <img src="https://img.shields.io/badge/Healthcare_Analytics-005EB8?style=for-the-badge&logoColor=white" alt="Healthcare Analytics">
   <img src="https://img.shields.io/badge/Data_Warehousing-1E88E5?style=for-the-badge&logoColor=white" alt="Data Warehousing">
