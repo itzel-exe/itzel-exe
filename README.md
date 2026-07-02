@@ -16,12 +16,9 @@
 <p align="center">
 <img src="assets/dsp.gif" width="500">
 </p>
-
 <!--
 ![Alt text](assets/gifmock.gif)
 -->
-
-
 <!-- Core Technologies -->
 <div class="tech-stack">
 <!-- Data Engineering-->
@@ -59,10 +56,8 @@
   <img src="https://img.shields.io/badge/HL7-00897B?style=for-the-badge&logoColor=white" alt="HL7">
   <img src="https://img.shields.io/badge/FHIR-E91E63?style=for-the-badge&logoColor=white" alt="FHIR">
   <img src="https://img.shields.io/badge/HIPAA_Compliance-1565C0?style=for-the-badge&logoColor=white" alt="HIPAA">
-  <img src="https://img.shields.io/badge/Epic_Clarity-6A1B9A?style=for-the-badge" alt="Epic Clarity">
 </div>
 </p>
-
 ---
 
 ### Current Projects
