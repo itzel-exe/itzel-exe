@@ -59,6 +59,36 @@
 
 </div>
 
+<div class="tech-stack">
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS">
+
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
+
+  <img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudFront">
+
+  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Athena">
+
+  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=232F3E" alt="AWS Glue">
+
+</div>
+
+<div class="tech-stack">
+
+  <img src="https://img.shields.io/badge/Healthcare_Analytics-005EB8?style=for-the-badge&logoColor=white" alt="Healthcare Analytics">
+
+  <img src="https://img.shields.io/badge/Data_Warehousing-1E88E5?style=for-the-badge&logoColor=white" alt="Data Warehousing">
+
+  <img src="https://img.shields.io/badge/HL7-00897B?style=for-the-badge&logoColor=white" alt="HL7">
+
+  <img src="https://img.shields.io/badge/FHIR-E91E63?style=for-the-badge&logoColor=white" alt="FHIR">
+
+  <img src="https://img.shields.io/badge/HIPAA_Compliance-1565C0?style=for-the-badge&logoColor=white" alt="HIPAA">
+
+  <img src="https://img.shields.io/badge/Epic_Clarity-Learning-6A1B9A?style=for-the-badge" alt="Epic Clarity">
+
+</div>
+
 
 </p>
 
