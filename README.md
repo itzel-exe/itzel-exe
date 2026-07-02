@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Algorithm%20Design-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
+  < img src ="https://img.shields.io/badge/Database%20Design-purple"/>
+
 
 </p>
 
