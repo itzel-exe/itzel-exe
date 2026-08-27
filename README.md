@@ -5,7 +5,7 @@
 
 <!-- ✨ Header / Intro -->
 <p align="center">
-<img src="assets/banner.png" width="100%">
+<img src="assets/headline.png" width="100%">
 </p>
 
 <!--
